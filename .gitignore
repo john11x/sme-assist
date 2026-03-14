@@ -25,7 +25,6 @@ __pycache__/
 Thumbs.db
 
 # App specific
-data/
 vector_db/
 *.log
 .streamlit/

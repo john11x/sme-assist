@@ -1,0 +1,142 @@
+═══════════════════════════════════════════════════════════════════════════════
+                         EQUITY BANK (KENYA) LIMITED
+                       CORPORATE STATEMENT OF ACCOUNT
+═══════════════════════════════════════════════════════════════════════════════
+
+Business Name      : Wanjiku & Sons Trading Co. Ltd
+KRA PIN            : P051234567Z
+Business Reg No.   : PVT-2023-089456
+Account Number     : 0120-298-441-9900
+Branch             : Kenyatta Avenue, Nairobi
+Account Type       : Business Current Account
+Statement Period   : 01-JAN-2026 to 31-MAR-2026 (Q1)
+Currency           : Kenya Shillings (KES)
+
+Opening Balance as at 01-JAN-2026                                 KES 1,245,600.00
+───────────────────────────────────────────────────────────────────────────────
+
+DATE         DESCRIPTION                              REF            DEBIT (KES)     CREDIT (KES)     BALANCE (KES)
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+
+=== JANUARY 2026 ===
+
+02-JAN-2026  M-PESA PAYBILL - REVENUE COLLECTION      MPESA-8812                     385,000.00       1,630,600.00
+03-JAN-2026  RTGS - WHOLESALE CLIENT PAYMENT           RTGS-0041                      720,000.00       2,350,600.00
+05-JAN-2026  CHQUE - SHOP RENT (Biashara Street)       CHQ-1190       85,000.00                        2,265,600.00
+05-JAN-2026  CHQUE - WAREHOUSE RENT (Industrial Area)  CHQ-1191       45,000.00                        2,220,600.00
+07-JAN-2026  EFT - KPLC ELECTRICITY (BUSINESS)         EFT-KPLC       18,500.00                        2,202,100.00
+07-JAN-2026  EFT - NAIROBI WATER (BUSINESS)            EFT-NWC        4,200.00                         2,197,900.00
+10-JAN-2026  RTGS - STOCK: DEVKI STEEL MILLS           RTGS-0042      480,000.00                       1,717,900.00
+10-JAN-2026  RTGS - STOCK: BAMBURI CEMENT LTD          RTGS-0043      320,000.00                       1,397,900.00
+12-JAN-2026  M-PESA B2C - CASUAL LABOUR (3 WORKERS)    MPESA-B2C      18,000.00                        1,379,900.00
+15-JAN-2026  SALARY PAYMENT - ANNE MUTHONI (MANAGER)    SAL-001        65,000.00                        1,314,900.00
+15-JAN-2026  SALARY PAYMENT - JAMES OCHIENG (SALES)    SAL-002        45,000.00                        1,269,900.00
+15-JAN-2026  SALARY PAYMENT - GRACE AKINYI (ACCOUNTS)  SAL-003        40,000.00                        1,229,900.00
+15-JAN-2026  SALARY PAYMENT - PETER KAMAU (DRIVER)     SAL-004        30,000.00                        1,199,900.00
+17-JAN-2026  EFT - NHIF/SHIF CONTRIBUTION              EFT-NHIF       12,400.00                        1,187,500.00
+17-JAN-2026  EFT - NSSF CONTRIBUTION                   EFT-NSSF       8,640.00                         1,178,860.00
+17-JAN-2026  EFT - HOUSING LEVY CONTRIBUTION           EFT-HLVY       2,700.00                         1,176,160.00
+18-JAN-2026  M-PESA PAYBILL - SAFARICOM AIRTIME        MPESA-AIR      3,500.00                         1,172,660.00
+20-JAN-2026  KRA PAYMENT - PAYE (DEC 2025)             KRA-PAYE       22,450.00                        1,150,210.00
+20-JAN-2026  KRA PAYMENT - VAT (DEC 2025)              KRA-VAT        58,900.00                        1,091,310.00
+22-JAN-2026  RTGS - CLIENT: COUNTY GOVT SUPPLY         RTGS-0044                      550,000.00       1,641,310.00
+25-JAN-2026  M-PESA - JAVA HOUSE LUNCH (PERSONAL)      PERS-001       3,800.00                         1,637,510.00
+25-JAN-2026  M-PESA - UBER RIDE (PERSONAL)             PERS-002       1,200.00                         1,636,310.00
+28-JAN-2026  CHQUE - INSURANCE PREMIUM (BUSINESS)      CHQ-1192       36,000.00                        1,600,310.00
+30-JAN-2026  ATM WITHDRAWAL (PERSONAL)                 ATM-NAI        50,000.00                        1,550,310.00
+31-JAN-2026  M-PESA PAYBILL - DAILY SALES              MPESA-8813                     195,000.00       1,745,310.00
+
+=== FEBRUARY 2026 ===
+
+02-FEB-2026  RTGS - WHOLESALE CLIENT PAYMENT           RTGS-0045                      480,000.00       2,225,310.00
+03-FEB-2026  M-PESA PAYBILL - SHOP WALK-INS            MPESA-8814                     142,000.00       2,367,310.00
+05-FEB-2026  CHQUE - SHOP RENT (Biashara Street)       CHQ-1193       85,000.00                        2,282,310.00
+05-FEB-2026  CHQUE - WAREHOUSE RENT (Industrial Area)  CHQ-1194       45,000.00                        2,237,310.00
+07-FEB-2026  EFT - KPLC ELECTRICITY (BUSINESS)         EFT-KPLC       22,100.00                        2,215,210.00
+07-FEB-2026  EFT - NAIROBI WATER (BUSINESS)            EFT-NWC        4,800.00                         2,210,410.00
+10-FEB-2026  RTGS - STOCK: MABATI ROLLING MILLS        RTGS-0046      290,000.00                       1,920,410.00
+10-FEB-2026  RTGS - STOCK: BAMBURI CEMENT LTD          RTGS-0047      180,000.00                       1,740,410.00
+10-FEB-2026  EFT - STOCK: HACO INDUSTRIES (PAINT)      EFT-HACO       95,000.00                        1,645,410.00
+12-FEB-2026  M-PESA B2C - CASUAL LABOUR (4 WORKERS)    MPESA-B2C      24,000.00                        1,621,410.00
+14-FEB-2026  VISA CARD - NAIVAS SUPERMARKET (PERSONAL) PERS-003       8,500.00                         1,612,910.00
+15-FEB-2026  SALARY PAYMENT - ANNE MUTHONI (MANAGER)    SAL-005        65,000.00                        1,547,910.00
+15-FEB-2026  SALARY PAYMENT - JAMES OCHIENG (SALES)    SAL-006        45,000.00                        1,502,910.00
+15-FEB-2026  SALARY PAYMENT - GRACE AKINYI (ACCOUNTS)  SAL-007        40,000.00                        1,462,910.00
+15-FEB-2026  SALARY PAYMENT - PETER KAMAU (DRIVER)     SAL-008        30,000.00                        1,432,910.00
+17-FEB-2026  EFT - NHIF/SHIF CONTRIBUTION              EFT-NHIF       12,400.00                        1,420,510.00
+17-FEB-2026  EFT - NSSF CONTRIBUTION                   EFT-NSSF       8,640.00                         1,411,870.00
+17-FEB-2026  EFT - HOUSING LEVY CONTRIBUTION           EFT-HLVY       2,700.00                         1,409,170.00
+18-FEB-2026  M-PESA - FUEL (BUSINESS DELIVERY TRUCK)   MPESA-FUEL     15,800.00                        1,393,370.00
+20-FEB-2026  KRA PAYMENT - PAYE (JAN 2026)             KRA-PAYE       24,100.00                        1,369,270.00
+20-FEB-2026  KRA PAYMENT - VAT (JAN 2026)              KRA-VAT        62,400.00                        1,306,870.00
+22-FEB-2026  M-PESA PAYBILL - REVENUE COLLECTION       MPESA-8815                     310,000.00       1,616,870.00
+24-FEB-2026  EFT - DIGITAL MARKETING (SOCIAL MEDIA)    EFT-MKT        25,000.00                        1,591,870.00
+25-FEB-2026  M-PESA - SCHOOL FEES (PERSONAL)           PERS-004       75,000.00                        1,516,870.00
+26-FEB-2026  EFT - VEHICLE SERVICE (DELIVERY TRUCK)    EFT-MECH       42,000.00                        1,474,870.00
+27-FEB-2026  RTGS - CLIENT: HOTEL SUPPLIES ORDER       RTGS-0048                      280,000.00       1,754,870.00
+28-FEB-2026  M-PESA PAYBILL - DAILY SALES              MPESA-8816                     168,000.00       1,922,870.00
+
+=== MARCH 2026 ===
+
+02-MAR-2026  RTGS - WHOLESALE CLIENT PAYMENT           RTGS-0049                      590,000.00       2,512,870.00
+03-MAR-2026  M-PESA PAYBILL - SHOP WALK-INS            MPESA-8817                     205,000.00       2,717,870.00
+05-MAR-2026  CHQUE - SHOP RENT (Biashara Street)       CHQ-1195       85,000.00                        2,632,870.00
+05-MAR-2026  CHQUE - WAREHOUSE RENT (Industrial Area)  CHQ-1196       45,000.00                        2,587,870.00
+07-MAR-2026  EFT - KPLC ELECTRICITY (BUSINESS)         EFT-KPLC       19,800.00                        2,568,070.00
+07-MAR-2026  EFT - NAIROBI WATER (BUSINESS)            EFT-NWC        5,100.00                         2,562,970.00
+08-MAR-2026  RTGS - STOCK: DEVKI STEEL MILLS           RTGS-0050      350,000.00                       2,212,970.00
+08-MAR-2026  RTGS - STOCK: EAST AFRICAN CABLES         RTGS-0051      185,000.00                       2,027,970.00
+08-MAR-2026  EFT - STOCK: CROWN PAINTS                 EFT-CRWN       120,000.00                       1,907,970.00
+10-MAR-2026  M-PESA B2C - CASUAL LABOUR (3 WORKERS)    MPESA-B2C      18,000.00                        1,889,970.00
+12-MAR-2026  EFT - COUNTY LICENSE RENEWAL              EFT-CNTY       15,000.00                        1,874,970.00
+12-MAR-2026  EFT - FIRE SAFETY CERTIFICATE             EFT-FIRE       8,000.00                         1,866,970.00
+13-MAR-2026  EFT - ACCOUNTING FEES (EXTERNAL AUDIT)    EFT-AUDIT      60,000.00                        1,806,970.00
+15-MAR-2026  SALARY PAYMENT - ANNE MUTHONI (MANAGER)    SAL-009        65,000.00                        1,741,970.00
+15-MAR-2026  SALARY PAYMENT - JAMES OCHIENG (SALES)    SAL-010        45,000.00                        1,696,970.00
+15-MAR-2026  SALARY PAYMENT - GRACE AKINYI (ACCOUNTS)  SAL-011        40,000.00                        1,656,970.00
+15-MAR-2026  SALARY PAYMENT - PETER KAMAU (DRIVER)     SAL-012        30,000.00                        1,626,970.00
+17-MAR-2026  EFT - NHIF/SHIF CONTRIBUTION              EFT-NHIF       12,400.00                        1,614,570.00
+17-MAR-2026  EFT - NSSF CONTRIBUTION                   EFT-NSSF       8,640.00                         1,605,930.00
+17-MAR-2026  EFT - HOUSING LEVY CONTRIBUTION           EFT-HLVY       2,700.00                         1,603,230.00
+18-MAR-2026  M-PESA - FUEL (BUSINESS DELIVERY TRUCK)   MPESA-FUEL     14,200.00                        1,589,030.00
+19-MAR-2026  VISA CARD - KEMPINSKI DINNER (PERSONAL)   PERS-005       12,000.00                        1,577,030.00
+20-MAR-2026  KRA PAYMENT - PAYE (FEB 2026)             KRA-PAYE       24,100.00                        1,552,930.00
+20-MAR-2026  KRA PAYMENT - VAT (FEB 2026)              KRA-VAT        55,800.00                        1,497,130.00
+22-MAR-2026  M-PESA PAYBILL - REVENUE COLLECTION       MPESA-8818                     445,000.00       1,942,130.00
+25-MAR-2026  EFT - LAPTOP PURCHASE (BUSINESS)          EFT-TECH       89,000.00                        1,853,130.00
+26-MAR-2026  M-PESA - DSTV SUBSCRIPTION (PERSONAL)     PERS-006       5,999.00                         1,847,131.00
+28-MAR-2026  RTGS - CLIENT: SCHOOL SUPPLY ORDER        RTGS-0052                      375,000.00       2,222,131.00
+30-MAR-2026  EFT - PROFESSIONAL INDEMNITY INSURANCE    EFT-INSUR      18,000.00                        2,204,131.00
+31-MAR-2026  M-PESA PAYBILL - DAILY SALES              MPESA-8819                     220,000.00       2,424,131.00
+
+───────────────────────────────────────────────────────────────────────────────
+Closing Balance as at 31-MAR-2026                                 KES 2,424,131.00
+═══════════════════════════════════════════════════════════════════════════════
+
+QUARTERLY SUMMARY (Q1 2026):
+────────────────────────────
+Total Credits (Revenue):              KES 5,065,000.00
+Total Debits (Expenses + Personal):   KES 3,886,469.00
+Net Cash Flow:                        KES 1,178,531.00
+
+PAYROLL SUMMARY:
+────────────────
+Employees:    4 (Anne Muthoni, James Ochieng, Grace Akinyi, Peter Kamau)
+Gross Payroll: KES 540,000.00 (3 months)
+PAYE Remitted: KES 70,650.00
+SHIF/NHIF:     KES 37,200.00
+NSSF:          KES 25,920.00
+Housing Levy:  KES 8,100.00
+
+NOTES:
+──────
+1. Business is registered for VAT (KRA PIN: P051234567Z).
+2. All stock purchases include 16% VAT (input VAT claimable).
+3. Rent payments are for 100% business-use premises.
+4. Transactions marked (PERSONAL) are owner's private expenses.
+5. The business operates as a hardware and building materials supplier.
+6. The business vehicle (delivery truck) is used 100% for business.
+7. Casual labour is hired for loading/offloading at warehouse.
+8. County license and Fire Safety certificate are annual renewals.
+9. External audit is conducted quarterly per Companies Act requirements.
+10. Laptop purchased for business accounting and inventory management.
