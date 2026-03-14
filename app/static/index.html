@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SME-Assist | Kenyan Tax & Financial Consultant</title>
+    <link rel="stylesheet" href="static/style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;700&display=swap" rel="stylesheet">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/marked/4.0.2/marked.min.js"></script>
+</head>
+<body>
+    <div class="glass-container">
+        <header>
+            <div class="logo">
+                <span class="accent-dot"></span>
+                <h1>SME-Assist</h1>
+            </div>
+            <p class="subtitle">AI-Powered Kenyan Tax & Financial Consultant</p>
+        </header>
+
+        <main>
+            <section id="upload-section" class="card fade-in">
+                <h2>Upload Bank Statement</h2>
+                <div id="drop-zone" class="drop-zone">
+                    <p>Drag & drop or Click to upload (PDF, TXT, XLS)</p>
+                    <input type="file" id="file-input" hidden>
+                </div>
+                <div id="file-info" class="hidden">
+                    <span id="filename-display"></span>
+                    <button id="analyze-btn" class="btn vibrant">Analyze Statement</button>
+                </div>
+            </section>
+
+            <section id="results-section" class="hidden">
+                <div class="tabs">
+                    <button class="tab-btn active" data-tab="summary-tab">Analysis Summary</button>
+                    <button class="tab-btn" data-tab="balance-tab">IFRS Balance Sheet</button>
+                    <button class="tab-btn" data-tab="tax-tab">KRA Tax Return</button>
+                </div>
+
+                <div class="tab-content" id="summary-tab">
+                    <div id="summary-content" class="md-view"></div>
+                </div>
+                <div class="tab-content hidden" id="balance-tab">
+                    <div id="balance-content" class="md-view"></div>
+                </div>
+                <div class="tab-content hidden" id="tax-tab">
+                    <div id="tax-content" class="md-view"></div>
+                </div>
+            </section>
+
+            <div id="loader" class="hidden">
+                <div class="spinner"></div>
+                <p>Consulting Kenyan Tax Laws...</p>
+            </div>
+        </main>
+
+        <footer>
+            <p>&copy; 2026 SME-Assist. Powered by Gemini Flash RAG.</p>
+        </footer>
+    </div>
+    <script src="static/script.js"></script>
+</body>
+</html>

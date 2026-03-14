@@ -10,8 +10,9 @@ The system uses Retrieval-Augmented Generation (RAG) to retrieve relevant regula
 2. **Chunking & Embeddings**: Creating vectors with LlamaIndex
 3. **Vector Database**: Storing embeddings in ChromaDB
 4. **Retrieval**: Finding relevant documents via similarity search
-5. **LLM Generation**: Producing answers via Groq / Gemini API
-6. **Frontend**: Streamlit chat interface with citations
+5. **Tax Consultant**: Processing user-uploaded financial data against regulatory rules
+6. **LLM Generation**: Producing answers and reports (Balance Sheets, Tax Drafts) via Groq / Gemini
+7. **Frontend**: Streamlit chat interface with citations and report downloads
 
 ## Environment Setup
 

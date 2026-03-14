@@ -6,3 +6,6 @@ chromadb>=0.4.22
 groq>=0.4.0
 google-generativeai>=0.4.0
 python-dotenv>=1.0.1
+llama-index-llms-google-genai
+llama-index-embeddings-google-genai
+llama-index-vector-stores-chroma

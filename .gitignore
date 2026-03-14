@@ -19,3 +19,13 @@ __pycache__/
 .vscode/
 *.swp
 *.swo
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# App specific
+data/
+vector_db/
+*.log
+.streamlit/
