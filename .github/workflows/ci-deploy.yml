@@ -1,0 +1,68 @@
+name: CI and EC2 deploy
+
+on:
+  push:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: sme-assist-production
+  cancel-in-progress: false
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: pip
+
+      - name: Install dependencies
+        run: python -m pip install -r requirements.txt
+
+      - name: Run categorization smoke test
+        run: python test_categorization.py
+
+  deploy:
+    needs: test
+    if: github.ref == 'refs/heads/main'
+    runs-on: [self-hosted, linux, x64]
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Deploy and restart FastAPI
+        shell: bash
+        run: |
+          set -euo pipefail
+          app_dir=/home/ubuntu/sme-assist
+          install -d "$app_dir"
+          rsync -a --delete \
+            --exclude='.git/' \
+            --exclude='.env' \
+            --exclude='.venv/' \
+            --exclude='venv/' \
+            --exclude='vector_db/' \
+            --exclude='data/user_uploads/' \
+            "$GITHUB_WORKSPACE/" "$app_dir/"
+
+          test -s "$app_dir/.env" || {
+            echo "Missing $app_dir/.env; configure the application environment on EC2 first." >&2
+            exit 1
+          }
+
+          python3 -m venv "$app_dir/.venv"
+          "$app_dir/.venv/bin/python" -m pip install --upgrade pip
+          "$app_dir/.venv/bin/pip" install -r "$app_dir/requirements.txt"
+
+          sudo install -m 0644 "$app_dir/deploy/sme-assist.service" /etc/systemd/system/sme-assist.service
+          sudo systemctl daemon-reload
+          sudo systemctl enable sme-assist
+          sudo systemctl restart sme-assist
+          sudo systemctl is-active --quiet sme-assist
