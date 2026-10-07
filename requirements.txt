@@ -11,5 +11,6 @@ google-generativeai>=0.4.0
 python-dotenv>=1.0.1
 llama-index-llms-google-genai
 llama-index-llms-groq
+llama-index-readers-file
 llama-index-embeddings-google-genai
 llama-index-vector-stores-chroma
