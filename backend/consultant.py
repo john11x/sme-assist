@@ -60,6 +60,22 @@ class TaxConsultant:
                 return response.text
             raise e
 
+    def answer_tax_question(self, question: str, language_instruction: str, context: str = ""):
+        """Answer a tax question using the indexed regulatory knowledge base."""
+        retrieved = self.query_engine.query(question)
+        prompt = (
+            "You are SME-Assist, an AI assistant for Kenyan small-business tax and compliance. "
+            "Use the regulatory context below as your primary source. If it does not support a "
+            "specific answer, say so instead of inventing a rule. Give practical information, "
+            "state uncertainty, and advise checking current requirements with KRA or a qualified "
+            "tax professional.\n\n"
+            f"{language_instruction}\n\n"
+            f"Retrieved regulatory context:\n{retrieved}\n\n"
+            f"Financial context, if provided:\n{context}\n\n"
+            f"User question: {question}"
+        )
+        return self.chat_with_fallback(prompt)
+
     def analyze_user_data(self, user_file_path: str):
         """
         Processes a user's financial document (e.g., bank statement) 

@@ -29,7 +29,8 @@ jobs:
       - name: Run categorization smoke test
         run: python test_categorization.py
 
-  deploy:
+    cd ~/actions-runner
+  ./run.sh:
     needs: test
     if: github.ref == 'refs/heads/main'
     runs-on: [self-hosted, linux, x64]
